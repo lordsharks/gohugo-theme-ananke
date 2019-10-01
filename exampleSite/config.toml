@@ -1,5 +1,5 @@
 title = "Shax Diary"
-baseURL = "https://nifty-goodall-0a6f47.netlify.com/"
+baseURL = "ht/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
